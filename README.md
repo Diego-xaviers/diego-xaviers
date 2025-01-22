@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi There! 👋
 
-<!--
-**Diego-xaviers/diego-xaviers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Diego! 🚀
 
-Here are some ideas to get you started:
+(C# | .NET | ASP.NET Core | Entity Framework | SQL Server | Azure | REST APIs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Back-End Developer**  
+🏆 **Passionate Problem Solver**  
+📚 **Development Systems Analysis Student**  
+⚙️ I specialize in building efficient, scalable, and maintainable server-side solutions.  
+
+💡 Always ready to learn and embrace new challenges.  
+🌍 Aspiring to make an impact through clean and reliable code.  
+
+📫 **Get in Touch:**
+[LinkedIn](https://www.linkedin.com/in/diegoxavier1523) | ✉️ contato@xavierdsgn.com.br
+
+---
+
+### **My GitHub Stats**
+
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### **Most Used Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
