@@ -19,10 +19,10 @@
 
 ### **My GitHub Stats**
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-xaviers&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-xaviers&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
