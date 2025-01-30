@@ -7,7 +7,7 @@
 👨‍💻 **Back-End Developer**  
 🏆 **Passionate Problem Solver**  
 📚 **Development Systems Analysis Student**  
-⚙️ I specialize in building efficient, scalable, and maintainable server-side solutions.  
+⚙️ I want learning in building efficient, scalable, and maintainable server-side solutions.  
 
 💡 Always ready to learn and embrace new challenges.  
 🌍 Aspiring to make an impact through clean and reliable code.  
