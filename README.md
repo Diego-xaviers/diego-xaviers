@@ -4,7 +4,7 @@
 
 Kotlin | Jetpack Compose | Android SDK | Room | Firebase | Retrofit | Hilt
 
-👨‍💻 **Back-End Developer**  
+👨‍💻 **Mobile Android Developer**  
 🏆 **Passionate Problem Solver**  
 📚 **Development Systems Analysis Student**  
 ⚙️ I want learning in building efficient, scalable, and maintainable server-side solutions.  
