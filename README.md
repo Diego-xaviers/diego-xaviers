@@ -2,7 +2,7 @@
 
 ## My name is Diego! 🚀
 
-C# | .NET | ASP.NET Core | Entity Framework | SQL Server | Azure | REST APIs
+Kotlin | Jetpack Compose | Android SDK | Room | Firebase | Retrofit | Hilt
 
 👨‍💻 **Back-End Developer**  
 🏆 **Passionate Problem Solver**  
