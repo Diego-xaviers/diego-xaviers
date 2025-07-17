@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Diego Xavier
 
-**`Desenvolvedora FullStack`**
+**`Software Engineer`**
 
 💻 Me chamo Diego Xavier, tenho 29 anos e sou do Brasil. Estou em transição de carreira, focado em me tornar Engenheiro de Software focado em Backend. Estudo Java, Spring Boot, Docker e fundamentos de Cloud, com objetivo de atuar em projetos reais o quanto antes.
 Estou construindo meu aprendizado com base sólida, documentando minha evolução e compartilhando códigos no GitHub. Aqui o foco é claro: aprender, aplicar e crescer na prática.
