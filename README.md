@@ -90,8 +90,8 @@ Estou construindo meu aprendizado com base sólida, documentando minha evoluçã
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="AWS" 
+    title="AWS"
     width="60px" 
     style="padding-right: 5px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg?short_path=2aed204"
