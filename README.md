@@ -44,58 +44,59 @@ Estou construindo meu aprendizado com base sólida, documentando minha evoluçã
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" 
 />
 <img 
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" 
 />
 <img 
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" 
 />
 <img 
     align="left" 
     alt="C#" 
     title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" 
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="Java" 
+    title="Java"
+    width="60px" 
+    style="padding-right: 5px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg?short_path=2aed204"
 />
+
 
 <br clear="left"/>
 <br/>
