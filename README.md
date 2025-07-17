@@ -62,7 +62,7 @@ Estou construindo meu aprendizado com base sólida, documentando minha evoluçã
     title="Kotlin"
     width="60px" 
     style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" 
 />
 <img 
     align="left" 
