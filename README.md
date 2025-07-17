@@ -1,28 +1,24 @@
-# Hi There! 👋
+# Hi there! 👋 I'm Diego Xavier
 
-## My name is Diego! 🚀
+👨‍💻 Software Engineer focused on backend development with Java and Spring Boot
 
-Kotlin | Jetpack Compose | Android SDK | Room | Firebase | Retrofit | Hilt
+🎓 Graduated in Systems Analysis and Development at FIAP (Faculdade de Informática e Administração Paulista)
 
-👨‍💻 **Mobile Android Developer**  
-🏆 **Passionate Problem Solver**  
-📚 **Development Systems Analysis Student**  
-⚙️ I want learning in building efficient, scalable, and maintainable server-side solutions.  
+🚀 Building solid experience with Java, Spring Boot, REST APIs, Docker and Cloud fundamentals
 
-💡 Always ready to learn and embrace new challenges.  
-🌍 Aspiring to make an impact through clean and reliable code.  
+📦 Passionate about creating clean, scalable and maintainable backend solutions
 
-📫 **Get in Touch:**
-[LinkedIn](https://www.linkedin.com/in/diegoxavier1523) | ✉️ contato@xavierdsgn.com.br
+📚 Committed to continuous learning and improving through real-world projects
+
+📍 Based in Brazil, open to remote opportunities and professional collaborations
 
 ---
 
-### **My GitHub Stats**
+### Skills
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-xaviers&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### **Most Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-xaviers&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **Languages & Frameworks:** Java, Spring Boot  
+- **Backend:** REST APIs, Microservices, JDBC  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & Technologies:** Docker, Git, Maven, Gradle  
+- **Cloud & DevOps:** Basics of AWS, CI/CD concepts  
+- **Others:** Unit Testing (JUnit), Logging (SLF4J), RESTful Design
