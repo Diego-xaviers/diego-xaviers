@@ -25,6 +25,7 @@
 ### 🧠 About Me
 - 🧑‍🏫 Bachelor's in ADS
 - 🏆 I am building a CRM to learn how to program.
+    
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
