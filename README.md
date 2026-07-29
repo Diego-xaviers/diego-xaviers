@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Diego Xavier 👋</h1>
 <p align="center">
-  <em>Software Developer • Tech Content Creator 
+  <em>Software Developer • Java  • Spring Boot • Cloud
 </p>
 <p align="center">
   <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
