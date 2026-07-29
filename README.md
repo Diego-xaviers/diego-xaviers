@@ -1,122 +1,76 @@
-# 👩🏻‍💻 Diego Xavier
+<h1 align="center">Olá, eu sou o Diego 👋</h1>
 
-**`Software Engineer`**
+<h3 align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Developer;Em+transi%C3%A7%C3%A3o+para+Backend;Ex-Designer+%2F+Editor+de+V%C3%ADdeo;Construindo+projetos+reais+todo+dia" alt="Typing SVG" />
+  </a>
+</h3>
 
-💻 Me chamo Diego Xavier, tenho 29 anos e sou do Brasil. Estou em transição de carreira, focado em me tornar Engenheiro de Software focado em Backend. Estudo Java, Spring Boot, Docker e fundamentos de Cloud, com objetivo de atuar em projetos reais o quanto antes.
-Estou construindo meu aprendizado com base sólida, documentando minha evolução e compartilhando códigos no GitHub. Aqui o foco é claro: aprender, aplicar e crescer na prática.
-
-<p align="left">
-    <a href="https://youtube.com/@xavieer_dev?si=UZRHW9dHPCETGsfB">
-        <img 
-            alt="Inscritos" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/diegoxvr/?locale=pt_BR">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connections-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182"
-        />
-    </a> 
-    <a href="https://github.com/Diego-xaviers?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Diego-xaviers?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&affiliations=OWNER"
-        />
-    </a>
-    <a href="https://github.com/Diego-xaviers?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Diego-xaviers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diego-xaviers&label=Visualizações&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/diego-xaviers?label=Seguidores&style=flat&color=58A6FF" alt="followers" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧭 Sobre mim
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="60px" 
-    style="padding-right: 5px;" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg?short_path=2aed204"
-/>
+Tenho 29 anos, sou do Brasil e venho de uma trajetória em **design, branding e edição de vídeo** — hoje aplicada à minha transição de carreira para **Engenharia de Software (Backend)**.
 
+- 🔭 Estudando **Java, Spring Boot, Docker e fundamentos de Cloud (AWS)**
+- 🏗️ Construindo uma base sólida em **DSA, System Design e arquitetura de software**
+- 🎯 Objetivo: atuar como **Backend Developer** em projetos reais
+- ✍️ Documentando cada etapa do aprendizado e publicando os códigos aqui
+- 🎨 Bônus: sigo atuando com **Design & Branding** via minha marca, a *Insany Design*
+
+---
+
+### 🛠️ Stack & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projeto em destaque
+
+<a href="https://github.com/diego-xaviers/horizon-imports">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-xaviers&repo=horizon-imports&theme=dark&hide_border=true" />
+</a>
+
+**Horizon Imports** — E-commerce full stack para eletrônicos, construído com Java, Spring Boot 3.5, Spring Data JPA, PostgreSQL, Thymeleaf e Bootstrap 5. Meu principal projeto de portfólio no back-end.
 
 <br clear="left"/>
-<br/>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Diego-xaviers&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Estatísticas do GitHub
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-xaviers&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diego-xaviers&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-xaviers&theme=dark&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-xaviers&layout=compact&theme=dark&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 📫 Vamos conectar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"Aprender, aplicar e crescer na prática."</i></p>
