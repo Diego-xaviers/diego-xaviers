@@ -1,56 +1,43 @@
-<h1 align="center">Diego Xavier</h1>
-<h3 align="center">Desenvolvedor de Software | Java · Spring Boot · React · TypeScript</h3>
+<h1 align="center">Olá, eu sou o Diego 👋</h1>
+
+<p align="center">
+  <i>Desenvolvedor Full Stack em Transição de Carreira • Java & Spring Boot • React & TypeScript</i>
+</p>
+
+<p align="center">
+  Venho do design e edição de vídeo, e hoje estudo e construo software todos os dias. Aqui você encontra meus projetos,
+  minha evolução técnica e experimentos com Java, Spring Boot, React e TypeScript :)
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Brasil-009C3B?style=flat-square" />
+  <a href="mailto:SEU-EMAIL-AQUI">
+    <img src="https://img.shields.io/badge/Email-SEU--EMAIL--AQUI-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### Sobre
+### 🧠 Sobre mim
 
-Profissional em transição de carreira para Engenharia de Software, com background em design, branding e edição de vídeo. Atualmente dedicado ao desenvolvimento full stack, com foco em **Java e Spring Boot no backend** e **React com TypeScript no frontend**.
+- 🔄 Em transição de carreira: de design/branding para **Engenharia de Software (Full Stack)**
+- 🏗️ Construindo o **OptiCare**, um CRM/sistema de agendamento para clínicas — Java + Spring Boot no backend, React + TypeScript no frontend, com o objetivo de evoluir para um SaaS multi-tenant
+- 📚 Estudando fundamentos sólidos: estruturas de dados, system design e arquitetura de software
+- 🎨 Ainda atuo com Design & Branding, o que me dá uma visão de produto ponta a ponta
 
-A transição é conduzida com base em estudo estruturado — fundamentos de estruturas de dados e algoritmos, system design e arquitetura de software — aliado à construção de projetos práticos documentados publicamente.
-
----
-
-### Stack
-
-**Backend:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Docker
-**Frontend:** React · TypeScript
-**Infraestrutura:** AWS (fundamentos) · Git
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<p align="center"><i>Aprender, aplicar e crescer na prática.</i> 🟢</p>
 
 ---
 
-### Projeto em destaque
+### 📌 Em destaque
 
-**[Horizon Imports](https://github.com/diego-xaviers/horizon-imports)**
-Aplicação full stack de e-commerce para eletrônicos, desenvolvida com Java, Spring Boot 3.5, Spring Data JPA, PostgreSQL, Thymeleaf e Bootstrap 5. Principal projeto de portfólio, demonstrando modelagem de domínio, persistência de dados e construção de uma aplicação completa do zero.
+**OptiCare** — CRM para clínicas construído do zero, com cadastro de pacientes, consultas, financeiro e prontuário. Projeto principal em desenvolvimento no momento, usado para consolidar Java, Spring Boot e React/TypeScript na prática.
 
 ---
-
-### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-xaviers&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-xaviers&layout=compact&theme=default&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diego-xaviers&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-xaviers&layout=compact&theme=dark&hide_border=true" width="38%" />
 </p>
-
----
-
-<p align="center"><sub>Aprender, aplicar e crescer na prática.</sub></p>
