@@ -11,7 +11,7 @@
   Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
 </p>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/diegoxvr/)">
+  <a href="https://www.linkedin.com/in/diegoxvr/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://xavierdsgn.com.br/">
