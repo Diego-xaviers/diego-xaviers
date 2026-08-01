@@ -18,13 +18,13 @@
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:contato@xavierdsgn.com.br">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-contato@xavierdsgn.com.br-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 ---
 ### 🧠 About Me
 
-    - 🧑‍🏫 Bachelor's in ADS
+    - 🧑‍🏫 graduate in ADS
 - 🏆 I am building a CRM to learn how to program.
 
 <p align="center">
